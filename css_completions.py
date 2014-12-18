@@ -79,6 +79,7 @@ css_data = """
 "text-align"=left | right | center | justify | inherit
 "text-decoration"=none | underline | overline | line-through | blink | inherit | none
 "text-indent"=<length> | <percentage> | inherit
+"text-rendering"=auto | geometricPrecision | optimizeLegibility | optimizeSpeed
 "text-transform"=capitalize | uppercase | lowercase | none | inherit
 "top"=<length> | <percentage> | auto | inherit
 "unicode-bidi"=normal | embed | bidi-override | inherit
